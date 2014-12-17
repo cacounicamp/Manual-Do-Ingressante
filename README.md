@@ -1,9 +1,8 @@
-Manual do bixo - Centro Acadêmico da Computação (CACo)
+Manual do Ingressante - Centro Acadêmico da Computação (CACo)
 ======================================================
 
-Este é o manual do bixo, criado pelo Centro Acadêmico da Computação, CACo,
-distribuído aos ingressantes nos cursos de engenharia e ciencia da computação
-da Unicamp.
+Este é o manual do Ingressante, criado pelo Centro Acadêmico da Computação, CACo,
+distribuído aos ingressantes da Pós do Instituto de Computação da Unicamp
 
 Compilando
 ----------
